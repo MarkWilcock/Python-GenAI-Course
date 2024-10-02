@@ -1,0 +1,45 @@
+PatientId,AdmittedDate,DischargeDate,Hospital,Ward,Tariff,Ethnicity
+1,2024-02-27,2024-03-06,Kingston,Dermatology,2,White
+2,2024-02-27,2024-03-04,Kingston,Opthamology,8,Black British
+3,2024-02-27,2024-03-08,PRUH,Day Surgery,4,Asian
+4,2024-02-27,2024-02-29,Oxleas,Dermatology,8,
+5,2024-02-27,2024-03-02,Oxleas,Opthamology,5,White
+6,2024-02-27,2024-03-12,Oxleas,Day Surgery,8,Black British
+7,2024-02-27,2024-03-10,Kings College,Dermatology,10,Asian
+8,2024-02-27,2024-03-05,Kings College,Opthamology,1,
+9,2024-02-27,2024-03-09,Kings College,Day Surgery,6,White
+21,2024-02-29,2024-03-12,Kingston,Day Surgery,2,Black British
+23,2024-02-29,2024-03-12,Oxleas,Opthamology,10,
+25,2024-02-29,2024-03-13,Kings College,Dermatology,5,Black British
+27,2024-02-29,2024-03-02,Kings College,Day Surgery,8,
+29,2024-03-01,2024-03-11,Kingston,Opthamology,4,Black British
+34,2024-03-01,2024-03-08,Kings College,Dermatology,7,Asian
+35,2024-03-01,2024-03-04,Kings College,Opthamology,7,
+36,2024-03-01,2024-03-05,Kings College,Day Surgery,2,White
+37,2024-03-02,2024-03-17,Kingston,Dermatology,1,Black British
+38,2024-03-02,2024-03-10,PRUH,Opthamology,8,Asian
+39,2024-03-02,2024-03-11,Kingston,Day Surgery,10,
+100,2024-02-28,2024-03-08,Kingston,General Surgery,9,Black British
+110,2024-02-28,2024-03-05,PRUH,Opthamology,8,Asian
+120,2024-02-28,2024-03-03,Kingston,Day Surgery,6,
+130,2024-02-28,2024-03-03,Oxleas,General Surgery,8,White
+140,2024-02-28,2024-03-07,Oxleas,Opthamology,4,Black British
+150,2024-02-28,2024-03-10,Oxleas,Day Surgery,7,Asian
+160,2024-02-28,2024-03-09,Kings College,Dermatology,7,
+170,2024-02-28,2024-03-06,Kings College,Opthamology,6,White
+180,2024-02-28,2024-03-01,Kings College,Day Surgery,9,Black British
+190,2024-02-29,2024-03-08,Kingston,Dermatology,10,Asian
+200,2024-02-29,2024-03-06,Kingston,Opthamology,6,White
+310,2024-03-01,2024-03-14,Oxleas,Dermatology,3,
+320,2024-03-01,2024-03-07,Oxleas,Opthamology,7,White
+330,2024-03-01,2024-03-15,Oxleas,Day Surgery,9,Black British
+400,2024-03-02,2024-03-13,Oxleas,Dermatology,1,White
+411,2024-03-02,2024-03-12,Oxleas,Opthamology,9,Black British
+422,2024-03-02,2024-03-16,Oxleas,Day Surgery,2,Asian
+433,2024-03-02,2024-03-14,PRUH,Dermatology,8,
+455,2024-03-02,2024-03-09,Kings College,General Surgery,7,White
+2200,2024-02-29,2024-03-04,Oxleas,Dermatology,5,Asian
+2400,2024-02-29,2024-03-13,Oxleas,Ultrasound,10,White
+2600,2024-02-29,2024-03-12,Kings College,Opthamology,8,Asian
+2800,2024-03-01,2024-03-15,Kingston,Dermatology,7,White
+3000,2024-03-01,2024-03-07,Kingston,Ultrasound,5,Asian
