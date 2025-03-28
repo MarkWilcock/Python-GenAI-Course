@@ -2,7 +2,10 @@
 import os
 from openai import AzureOpenAI
 
-azure_endpoint = os.getenv("AZURE_ENDPOINT")
+from dotenv import load_dotenv
+load_dotenv(override=True) # Load the .env file
+
+azure_endpoint = os.getenv("AZURE_ENDPOINT_BASE")
 azure_key =  os.getenv("AZURE_KEY")
 deployment = "gpt-4o-mini"
 #api_version = "2024-10-21"
@@ -24,11 +27,11 @@ response = client.chat.completions.create(
     messages=[
         {
             "role": "system",
-            "content": "You are a helpful assistant.",
+            "content": "You are a helpful assistant. Answer questions briefly.",
         },
         {
             "role": "user",
-            "content": "I am going to London, what should I see?",
+            "content": "I am going to Valetta, what should I see?",
         }
     ],
     model="gpt-4o-mini"
